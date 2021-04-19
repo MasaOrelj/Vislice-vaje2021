@@ -2,9 +2,4 @@
 
 Osnovni del projekta vislic za predmet UVP1.
 
-
-
-
-
-
-Maša Orelj
+Avtor: Maša Orelj
